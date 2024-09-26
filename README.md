@@ -36,7 +36,18 @@ geordnete liste  1.Erster Punkt
    
  |Tabelle| Beschreibung| Beschreibung|
  |-------|-------------|
+
+ 
    Beschreibung    Beschreibung
    ------------    ------------
-      
+   
+ [DCI] (https://digitalcareerinstitute.org)
+
+ ![Alternativetext]https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.stern.de%2Fsport%2Ffussball%2Fwm-2018%2Fneymar--beste-memes-und-reaktionen-auf-showeinlage-gegen-mexiko-8152982.html&psig=AOvVaw1TKJ0UwIN41MnDj8bQxeHy&ust=1727422721906000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJDf8vCN4IgDFQAAAAAdAAAAABAE;
+
+ 
+ to_ do listen
+ 
+  1- markdown lernen
+  2- markdown in project anwenden
 
